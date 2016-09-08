@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">TimeManager</string>
+    <string name="yyyymm_dateformat">yyyy年MM月</string>
+    <string name="total">合計</string>
+    <string name="hour">時間</string>
+    <string name="min">分</string>
+    <string name="task_label">タスク名</string>
+    <string name="timer_button">タイマー</string>
+    <string name="start_button">開始</string>
+    <string name="end_button">終了</string>
+    <string name="cancel_button">キャンセル</string>
+    <string name="YM">^([0-9]{4})年([0-9]{2})月$</string>
+    <string name="calendar_notfound">カレンダーが登録されていません。登録してください。</string>
+</resources>

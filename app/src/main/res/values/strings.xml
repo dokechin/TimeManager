@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">TimeManager</string>
+    <string name="yyyymm_dateformat">yyyy/MM</string>
+    <string name="total">total</string>
+    <string name="hour">hour</string>
+    <string name="min">min</string>
+    <string name="task_label">task name</string>
+    <string name="timer_button">timer</string>
+    <string name="start_button">Start</string>
+    <string name="end_button">End</string>
+    <string name="cancel_button">Cancel</string>
+    <string name="YM">^([0-9]{4})/([0-9]{2})$</string>
+    <string name="calendar_notfound">Calendar not found, Please register</string>
+</resources>
